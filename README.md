@@ -118,11 +118,8 @@ else:
     print("Element found at index: ",result)
 ```
 ## Sample Input and Output
-
-
-
-
-
-
+![Screenshot 2023-06-04 132456](https://github.com/25tharunkumar/Search-Algorithm/assets/123470785/7915e95b-830b-43e3-a16f-b2809b0c9267)
+![Screenshot 2023-06-04 132510](https://github.com/25tharunkumar/Search-Algorithm/assets/123470785/900aa619-a7a8-4dfb-8e19-a76a188a2fbf)
+![Screenshot 2023-06-04 132533](https://github.com/25tharunkumar/Search-Algorithm/assets/123470785/2b0bca22-eaee-4144-ab89-1d87256032e6)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
